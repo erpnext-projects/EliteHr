@@ -1,0 +1,59 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"f3mNTyy_Sf\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639</b></span>\",\"col\":12}},{\"id\":\"3FQ_aY0AXR\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0645\u0634\u0631\u0648\u0639\",\"col\":3}},{\"id\":\"mYCusEBFZH\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639\",\"col\":3}},{\"id\":\"IUkGzEJrsQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0645\u0644\",\"col\":3}},{\"id\":\"i1QXrjjR9F\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0647\u0627\u0645</b></span>\",\"col\":12}},{\"id\":\"Itf-bL_ZVb\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Tasks Dashboard\",\"col\":12}}]",
+ "creation": "2026-01-28 17:34:52.034985",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Tasks Dashboard",
+   "label": "Tasks Dashboard"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "hr_work_bag",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639 \u0648\u0627\u0644\u0645\u0647\u0627\u0645",
+ "links": [],
+ "modified": "2026-02-11 18:47:59.377886",
+ "modified_by": "Administrator",
+ "module": "EliteHr",
+ "name": "\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639 \u0648\u0627\u0644\u0645\u0647\u0627\u0645",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "\u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 8.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639",
+   "link_to": "Elitehr Projects",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "\u0627\u0646\u0634\u0627\u0621 \u0645\u0634\u0631\u0648\u0639",
+   "link_to": "Elitehr Projects",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0645\u0644",
+   "link_to": "Elitehr Team",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "\u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639 \u0648\u0627\u0644\u0645\u0647\u0627\u0645"
+}

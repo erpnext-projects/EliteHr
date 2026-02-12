@@ -1,0 +1,38 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"UMazLPL1Fj\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0627\u0644\u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0645\u0648\u0633\u0645\u064a\u0629</span>\",\"col\":12}},{\"id\":\"VLzAq0lhR3\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b></b></span>\",\"col\":12}},{\"id\":\"_GhiVzzfAE\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0639\u0642\u0648\u062f \u0627\u0644\u062a\u0648\u0631\u064a\u062f \u0648\u0627\u0644\u0639\u0645\u0627\u0644\",\"col\":3}}]",
+ "creation": "2026-02-08 17:15:49.683349",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "hr_work_bag",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "\u0627\u0644\u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0645\u0648\u0633\u0645\u064a\u0629",
+ "links": [],
+ "modified": "2026-02-11 17:43:17.807445",
+ "modified_by": "Administrator",
+ "module": "EliteHr",
+ "name": "\u0627\u0644\u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0645\u0648\u0633\u0645\u064a\u0629",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "\u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 3.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0639\u0642\u0648\u062f \u0627\u0644\u062a\u0648\u0631\u064a\u062f \u0648\u0627\u0644\u0639\u0645\u0627\u0644",
+   "link_to": "Elitehr Supply Contract",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "\u0627\u0644\u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0645\u0648\u0633\u0645\u064a\u0629"
+}

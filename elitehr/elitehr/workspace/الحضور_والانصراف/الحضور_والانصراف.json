@@ -1,0 +1,140 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"uFybteOc-m\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Attendance Workspace\",\"col\":8}},{\"id\":\"2c9cwHTtTV\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Calendar\",\"col\":4}},{\"id\":\"U_CxL2zoWw\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Attendance Log\",\"col\":12}},{\"id\":\"ABftnW2wQi\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"_pQKwGoD_R\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Attendance Row\",\"col\":12}},{\"id\":\"akLbXxBCV2\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"kTU2rseJbK\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"1obTfDAdoL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641<b></b></span>\",\"col\":12}},{\"id\":\"XvfXrTLCaY\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0637\u0644\u0628 \u062a\u0635\u062d\u064a\u062d \u0628\u0635\u0645\u0629\",\"col\":3}},{\"id\":\"nh28ZGA-8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0633\u062c\u0644 \u0627\u0644\u062d\u0636\u0648\u0631\",\"col\":3}},{\"id\":\"qJ4SR3I_AB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0627\u0630\u0648\u0646\u0627\u062a\",\"col\":3}},{\"id\":\"46zei_LV_T\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0645\u0623\u0645\u0648\u0631\u064a\u0627\u062a\",\"col\":3}},{\"id\":\"HNFTflayR2\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0627\u0636\u0627\u0641\u064a\",\"col\":3}},{\"id\":\"hsOB0Ps6bH\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"olZenOuT-y\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0648\u0631\u062f\u064a\u0627\u062a \u0648\u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0645\u0644</span>\",\"col\":12}},{\"id\":\"kAZ--iwe5W\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u062a\",\"col\":3}},{\"id\":\"9hBapMJ10J\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u062a\u0639\u064a\u064a\u0646\u0627\u062a \u0627\u0644\u0648\u0631\u062f\u064a\u0627\u062a\",\"col\":3}},{\"id\":\"3S-FBYXSfQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0645\u0644\",\"col\":3}},{\"id\":\"TrOhjUGkUK\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u062a\u0639\u064a\u064a\u0646\u0627\u062a \u0627\u0644\u062c\u062f\u0627\u0648\u0644\",\"col\":3}},{\"id\":\"mdiaidHALY\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"pRMUuTpdMO\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">\u0633\u064a\u0627\u0633\u0627\u062a \u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u062e\u0635\u0648\u0645\u0627\u062a<b></b></span>\",\"col\":12}},{\"id\":\"idSd-U2rYx\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0628\u0635\u0645\u0629\",\"col\":3}},{\"id\":\"qtXcFd3gj0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062e\u0635\u0648\u0645\u0627\u062a\",\"col\":3}},{\"id\":\"g9LNk9aAXX\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062a\u0623\u062e\u064a\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641 \u0627\u0644\u0645\u0628\u0643\u0631\",\"col\":3}},{\"id\":\"WPj5EaizyA\",\"type\":\"spacer\",\"data\":{\"col\":12}}]",
+ "creation": "2026-01-28 17:34:12.353009",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Attendance Workspace",
+   "label": "Attendance Workspace"
+  },
+  {
+   "custom_block_name": "Calendar",
+   "label": "Calendar"
+  },
+  {
+   "custom_block_name": "Attendance Log",
+   "label": "Attendance Log"
+  },
+  {
+   "custom_block_name": "Attendance Row",
+   "label": "Attendance Row"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "hr_calendar",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "\u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641",
+ "links": [],
+ "modified": "2026-02-12 17:11:23.315019",
+ "modified_by": "Administrator",
+ "module": "EliteHr",
+ "name": "\u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "\u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 4.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u062a\u0639\u064a\u064a\u0646\u0627\u062a \u0627\u0644\u062c\u062f\u0627\u0648\u0644",
+   "link_to": "Elitehr Shift Schedule Assign Tool",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0637\u0644\u0628 \u062a\u0635\u062d\u064a\u062d \u0628\u0635\u0645\u0629",
+   "link_to": "Elitehr Attendance Correction Request",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0628\u0635\u0645\u0629",
+   "link_to": "Elitehr Attendance Rules",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062e\u0635\u0648\u0645\u0627\u062a",
+   "link_to": "Elitehr Deduction Rules",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0627\u0644\u0627\u0630\u0648\u0646\u0627\u062a",
+   "link_to": "Elitehr Short Leave Requests",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0633\u062c\u0644 \u0627\u0644\u062d\u0636\u0648\u0631",
+   "link_to": "Elitehr Attendance",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0627\u0636\u0627\u0641\u064a",
+   "link_to": "Elitehr Extra Work",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0645\u0623\u0645\u0648\u0631\u064a\u0627\u062a",
+   "link_to": "Elitehr Business Trip Request",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u062a\u0639\u064a\u064a\u0646\u0627\u062a \u0627\u0644\u0648\u0631\u062f\u064a\u0627\u062a",
+   "link_to": "Elitehr Shift Assign Tool",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u062a",
+   "link_to": "Elitehr Shifts",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u0642\u0648\u0627\u0639\u062f \u0627\u0644\u062a\u0623\u062e\u064a\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641 \u0627\u0644\u0645\u0628\u0643\u0631",
+   "link_to": "Elitehr Late And Early Exit Rules",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "\u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0645\u0644",
+   "link_to": "Elitehr Shift Schedule",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "\u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641"
+}

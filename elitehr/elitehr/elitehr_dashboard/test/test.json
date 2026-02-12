@@ -1,0 +1,32 @@
+{
+ "cards": [
+  {
+   "card": "Time to Fill"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "\u062d\u0627\u0644\u0629 \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646",
+   "width": "Half"
+  },
+  {
+   "chart": "\u0627\u0644\u062d\u0636\u0648\u0631 \u0648\u0627\u0644\u0627\u0646\u0635\u0631\u0627\u0641",
+   "width": "Half"
+  },
+  {
+   "width": "Half"
+  }
+ ],
+ "creation": "2026-02-03 11:06:59.906743",
+ "dashboard_name": "test",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2026-02-03 11:08:15.068585",
+ "modified_by": "Administrator",
+ "module": "EliteHr",
+ "name": "test",
+ "owner": "Administrator"
+}

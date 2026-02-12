@@ -26,7 +26,7 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/elitehr/css/elitehr.css"
-# app_include_js = "/assets/elitehr/js/elitehr.js"
+app_include_js = "/assets/elitehr/js/elitehr.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/elitehr/css/elitehr.css"
@@ -41,7 +41,7 @@ app_include_css = "/assets/elitehr/css/elitehr.css"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
-page_js = {"setup-wizard": "public/js/setup_wizard.js"}
+# page_js = {"setup-wizard": "public/js/setup_wizard.js"}
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
@@ -53,6 +53,9 @@ page_js = {"setup-wizard": "public/js/setup_wizard.js"}
 # ------------------
 # include app icons in desk
 # app_include_icons = "elitehr/public/icons.svg"
+app_include_icons = [
+    "elitehr/icons/my_custom_icons.svg"
+]
 
 # Home Pages
 # ----------
@@ -248,4 +251,4 @@ after_install = "elitehr.install.after_install"
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
-fixtures = ["Navbar Settings"]
+fixtures = ["Navbar Settings","Custom HTML Block"]

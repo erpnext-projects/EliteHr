@@ -71,7 +71,42 @@ def create_admin_user():
         frappe.db.commit()
         print(f"Success Create User: {email}")
         allow_only_specific_module(email, module_name)
-        allow_role_read_doctype(role_name,"Test")
+        roles = [
+            "Elitehr Branches",
+            "Elitehr Employee",
+            "Elitehr Attendance",
+            "Elitehr Attendance Status",
+            "Elitehr Tasks",
+            "Elitehr Attachments",
+            "Elitehr Deduction Levels",
+            "Elitehr Deduction Rules",
+            "Elitehr Late And Early Exit Rules",
+            "Elitehr Attendance Rules",
+            "Elitehr Shift Assign Tool",
+            "Elitehr Shift Schedule Assign Tool",
+            "Elitehr Shifts",
+            "Elitehr Shift Schedule",
+            "Elitehr Shifts Days",
+            "Elitehr Attendance Correction Request",
+            "Elitehr Leaves",
+            "Elitehr Supply Contract",
+            "Elitehr Resignations",
+            "Elitehr Employment",
+            "Elitehr Organizational structure",
+            "Eliteht Employee Contracts",
+            "Elitehr Leave Policies",
+            "Elitehr Short Leave Requests",
+            "Elitehr Business Trip Request",
+            "Elitehr Leave Policies Rules",
+            "Elitehr Leave Policies",
+            "Elitehr Employee Leaves Child Table",
+            "Elitehr Extra Work",
+            "Elitehr Projects",
+            "Elitehr Team"
+        ]
+        for r in roles:
+            allow_role_read_doctype(role_name,r)
+
     else:
         print(f"User {email} exists.")
 
